@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.jw.sb.sbdemo.HelloServiceAutoConfiguration,\
+com.jw.sb.sbdemo.GetEncodingServiceAutoConfiguration

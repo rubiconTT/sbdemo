@@ -1,0 +1,5 @@
+# file application.yml
+employee: 
+  author: yujiang
+  name: springboot2.3
+  age: 34

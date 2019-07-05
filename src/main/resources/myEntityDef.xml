@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee [<!ELEMENT employee (author,name,age)>
+                   <!ELEMENT author (#PCDATA)>
+                   <!ELEMENT name (#PCDATA)>
+                   <!ELEMENT age (#PCDATA)>]>
+<employee>
+    <author>ajard</author>
+    <name>springboot2.3</name>
+    <age>25</age>
+</employee>
